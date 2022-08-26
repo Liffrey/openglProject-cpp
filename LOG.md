@@ -30,3 +30,4 @@
 
 # LOG
 - 25082022 0.1 add: Hello Triangle
+- 26082022 0.2 upg: Hello Triangle
